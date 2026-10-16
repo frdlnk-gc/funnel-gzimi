@@ -1,0 +1,118 @@
+{
+  "firma": "GZIMI Landschaftsbau",
+  "stelle": "Bauleiter (m/w/d)",
+  "ort": "Olching",
+  "plz": "82140",
+  "branche": "galabau",
+  "farbe_primary": "#4781A9",
+  "farbe_secondary": "#4CA531",
+  "region_badge": "Olching & Umgebung",
+  "benefit_top": "Voll ausgestatteter Firmenwagen",
+  "benefits": [
+    "Voll ausgestatteter Firmenwagen & Firmenhandy",
+    "Unbefristeter Arbeitsvertrag",
+    "Kurzer Freitag",
+    "Weihnachtsgeld",
+    "Weiterbildungsangebote & regelmäßige Entwicklungsgespräche",
+    "Flache Hierarchien, Mitarbeiter-Events & regelmäßige Firmenfeiern"
+  ],
+  "aufgaben": [
+    "Du verantwortest den ordnungsgemäßen Bauablauf und die technische Umsetzung der Planungsvorgaben",
+    "Du leitest das Team vor Ort und planst Maschinen und Arbeitsgeräte in der Arbeitsvorbereitung",
+    "Du sicherst Qualität und Termine der Nachunternehmerleistungen und steuerst das Nachtragsmanagement",
+    "Du bist Ansprechpartner für unsere Kunden, dokumentierst die Leistungen und erstellst die Rechnungen"
+  ],
+  "anforderung": "Studium und/oder Meister- bzw. Technikerschule im Landschaftsbau – oder Berufserfahrung als Bauleiter/Polier im Tiefbau/Außenanlagenbau. Dazu Führerschein Klasse B und gute Deutschkenntnisse (mind. B2).",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Landschaftsbau / GaLaBau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Studium Landschaftsbau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahrung als Bauleiter / Polier",
+          "icon": "👷"
+        },
+        {
+          "label": "Andere Qualifikation",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Tiefbau / Außenanlagenbau",
+      "icon": "🚧",
+      "qualifikationen": [
+        {
+          "label": "Studium (Bau / Tiefbau)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahrung als Bauleiter / Polier",
+          "icon": "👷"
+        },
+        {
+          "label": "Andere Qualifikation",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker in anderem Fach",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "90",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2005",
+        "label": "gegründet"
+      }
+    ],
+    "text": "GZIMI realisiert seit 2005 anspruchsvolle Außenanlagen – für öffentliche Auftraggeber, Bauträger, Generalunternehmen und Architekturbüros. Aus einem kleinen Betrieb mit vier Mitarbeitenden ist ein Team von 90 geworden: Infrastruktur, Freiraumgestaltung, Schul- und Wohnanlagen sowie kommunaler Landschaftsbau, mit klarem Anspruch an Qualität und Verlässlichkeit."
+  },
+  "kunde_tab": "20 GZIMI Landschaftsbau",
+  "quelle": "https://gzimi.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Olching"
+  },
+  "hero_bild": "img/hero-planbesprechung.jpg",
+  "bilder": [
+    "img/f2-team-firmenwagen.jpg",
+    "img/f3-baustelle-plan.jpg",
+    "img/f1-planbesprechung.jpg",
+    "img/f4-firmensitz.jpg"
+  ]
+}
