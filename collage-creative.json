@@ -1,0 +1,35 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-baustelle-plan.jpg",
+  "img/foto-hd-team-firmenwagen.jpg",
+  "img/foto-hd-firmensitz.jpg"
+ ],
+ "fokus": [
+  [
+   0.45,
+   0.35
+  ],
+  [
+   0.5,
+   0.45
+  ],
+  [
+   0.7,
+   0.5
+  ]
+ ],
+ "primary": "#4781A9",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Bauleiter"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Olching · Fürstenfeldbruck · Dachau",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

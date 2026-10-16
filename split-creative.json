@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-planbesprechung.jpg",
+  "primary": "#4781A9",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#4781A9",
+  "kicker": "WIR SUCHEN IN OLCHING BEI MÜNCHEN",
+  "headline": [
+   "Bauleiter",
+   "(m/w/d)"
+  ],
+  "subline": "Unbefristet, mit voll ausgestattetem Firmenwagen.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.3,
+   0.45
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-team-firmenwagen.jpg",
+  "primary": "#4781A9",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN OLCHING",
+  "headline": [
+   "Bauleiter (m/w/d)"
+  ],
+  "checkliste": [
+   "Voll ausgestatteter Firmenwagen",
+   "Unbefristeter Arbeitsvertrag",
+   "Kurzer Freitag & Weihnachtsgeld"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.4
+  ]
+ }
+]

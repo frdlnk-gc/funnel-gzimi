@@ -1,0 +1,20 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-baustelle-plan.jpg",
+ "fokus": [
+  0.45,
+  0.3
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#4781A9",
+ "headline": [
+  "BAULEITER"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Olching · Fürstenfeldbruck · Dachau & Umgebung"
+}
